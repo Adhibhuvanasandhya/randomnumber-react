@@ -59,5 +59,5 @@ This project is licensed under the MIT License.
 If you have any questions or feedback, please reach out:
 
 - GitHub: [Adhibhuvanasandhya](https://github.com/Adhibhuvanasandhya)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/posts/adhibhuvanasandhya_reactjs-javascript-frontenddevelopment-activity-7262322424849854466-qK-J?utm_source=share&utm_medium=member_desktop
 
