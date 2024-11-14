@@ -49,11 +49,15 @@ function App() {
                 
                  <div className="history">
                     <h3 style={{color:"#9cff9c"}}>History:</h3>
+                    <div className="history-list">
                     <ul>
                         {history.map((num, index) => (
                             <li key={index}>{num}</li>
                         ))}
                     </ul>
+
+                    </div>
+                    
                     
                 </div>
                 <button onClick={change}>Reset</button>
